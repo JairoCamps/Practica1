@@ -15,6 +15,7 @@ public class GitAux {
     }
     
     public void metodoAlumno2(){
+	//Comentario Pedro Ávila Castro
         System.out.println("metodo 2");
     }
     
